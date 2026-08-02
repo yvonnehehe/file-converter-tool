@@ -1,0 +1,6 @@
+pillow
+docx2pdf
+pywin32
+PyMuPDF
+pdf2docx
+pypdf
